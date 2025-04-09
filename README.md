@@ -1,4 +1,4 @@
- **Guia completo de UX/UI Design do Zero ao Avançado** 
+#Guia completo de UX/UI Design do Zero ao Avançado
 
 lições, dicas práticas, referências (livros, vídeos, artigos), e sugestões de exercícios em cada etapa. A ideia é te dar uma jornada sólida, teórica e prática, para se tornar um(a) designer de produtos digitais com domínio em UX e UI.
 
